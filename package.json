@@ -41,7 +41,7 @@
     ]
   },
   "author": "ANdrei Cherniak <baza904@gmail.com>",
-  "homepage": "https://github.com/ChristianRC007/goit-react-hw-01-components",
+  "homepage": "https://ChristianRC007.github.io/goit-react-hw-01-components",
   "devDependencies": {
     "husky": "^6.0.0",
     "lint-staged": "^10.5.4",
